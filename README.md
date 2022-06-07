@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SANKVIOUR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kumar Bhawesh
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently persuing M.Tech in CSE
+- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 📫 How to reach me 
 
 <!---
 SANKVIOUR/SANKVIOUR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
